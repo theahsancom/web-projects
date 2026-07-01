@@ -1,59 +1,114 @@
-# My Web Projects
+# 🚀 My Web Projects
 
-Welcome to my **Portfolio Showcase Repository**. A collection of all my web development projects, experiments, and live applications.
-This repo acts as a central place where I organize and present everything I build as a developer.
-
----
-
-## 👨‍💻 About Me
-
-I am a **MERN Stack Developer** passionate about building:
-- ⚡ Fast & responsive web applications  
-- 🎨 Modern UI/UX interfaces  
-- 🧠 Scalable backend systems  
-- 🌐 Full-stack production-ready apps  
+Welcome to my **Portfolio Showcase Repository**. A collection of web applications, websites, and personal projects I've built as a MERN Stack Developer. This repository serves as a central hub where you can explore my work, try the live demos, and (soon) access the source code.
 
 ---
 
-### 🌟 Project 1: [Project Name]
-📌 Description: Short description of your project goes here.  
-🌐 Live Demo: [Visit Site](#)  
-💻 GitHub: [View Code](#)  
+# 👨‍💻 About Me
+
+I'm a **MERN Stack Developer** who enjoys building modern, responsive, and user-focused web applications. I love turning ideas into functional products while continuously improving my skills in frontend development, backend architecture, and UI/UX design.
+
+**My interests include:**
+
+- ⚡ Full-Stack Web Development
+- 🎨 Frontend UI/UX Design
+- 🧠 Backend Development & APIs
+- 🚀 Performance Optimization
+- 📱 Responsive Web Applications
 
 ---
 
-### 🌟 Project 2: [Project Name]
-📌 Description: Short description of your project goes here.  
-🌐 Live Demo: [Visit Site](#)  
-💻 GitHub: [View Code](#)  
+# 📂 Projects
+
+## 1. China Express
+> Experience an online restaurant website where visitors can browse delicious menu items, discover featured dishes, and explore the restaurant through an engaging interface.
+
+`🌐` **Live Demo:** https://chinaexpress-nine.vercel.app/
+
+`💻` **GitHub Repository:** *Coming Soon*
 
 ---
 
-### 🌟 Project 3: [Project Name]
-📌 Description: Short description of your project goes here.  
-🌐 Live Demo: [Visit Site](#)  
-💻 GitHub: [View Code](#)  
+## 2. Pomodoro Clock
+> A productivity-focused timer built around the Pomodoro Technique, helping users manage work sessions and breaks to stay focused throughout the day.
+
+`🌐` **Live Demo:** https://pomodoro-clock-swart.vercel.app/
+
+`💻` **GitHub Repository:** *Coming Soon*
 
 ---
 
-### 🌟 Project 4: [Project Name]
-📌 Description: Short description of your project goes here.  
-🌐 Live Demo: [Visit Site](#)  
-💻 GitHub: [View Code](#)  
+## 3. Media Tool
+> A collection of media-related utilities designed to simplify everyday tasks through a clean and straightforward web interface.
+
+`🌐` **Live Demo:** https://mediatool-livid.vercel.app/
+
+`💻` **GitHub Repository:** *Coming Soon*
 
 ---
 
-## 📬 Contact Me
+## 4. Lamenious
+> A professional business landing page that showcases services, company information, and branding through a polished presentation.
 
-- 🌐 Portfolio Website: https://theahsan.com
-- 💼 LinkedIn: https://linkedin.com/in/theahsan
+`🌐` **Live Demo:** https://lamenious.netlify.app/
 
----
-
-### Notes
-
-This repository will be continuously updated as I build more projects. Stay tuned for more improvements and exciting builds.
+`💻` **GitHub Repository:** *Coming Soon*
 
 ---
 
-> 💡 *“Code is not just code, it’s creativity turned into reality.”*
+## 5. Music Library
+> Browse and organize a growing collection of music through an elegant interface built for discovering artists, albums, and tracks.
+
+`🌐` **Live Demo:** https://musics-lib.vercel.app/
+
+`💻` **GitHub Repository:** *Coming Soon*
+
+---
+
+## 6. Alex Smith Portfolio
+> A personal portfolio website created to showcase professional skills, projects, experience, and services in a visually appealing format.
+
+`🌐` **Live Demo:** https://alexsmith-nu.vercel.app/
+
+`💻` **GitHub Repository:** *Coming Soon*
+
+---
+
+## 7. Retro Hub
+> A retro-inspired gaming website celebrating classic games with nostalgic visuals and an arcade-themed browsing experience.
+
+`🌐` **Live Demo:** https://retro-hub-nu.vercel.app/
+
+`💻` **GitHub Repository:** *Coming Soon*
+
+---
+
+## 8. Student Book
+> A student management application designed to organize student information in a simple, structured, and easy-to-use interface.
+
+`🌐` **Live Demo:** https://student-book-psi.vercel.app/
+
+`💻` **GitHub Repository:** *Coming Soon*
+
+---
+
+# 🌱 More Projects Coming Soon
+I'm constantly learning new technologies and building new applications. This repository will continue to grow with more projects, experiments, and full-stack applications.
+
+---
+
+# 📬 Connect With Me
+
+`🌐` **Portfolio:** https://theahsan.com
+
+`💼` **LinkedIn:** https://linkedin.com/in/theahsan
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+If you enjoyed exploring my projects, feel free to leave a ⭐ on this repository.
+
+</div>
